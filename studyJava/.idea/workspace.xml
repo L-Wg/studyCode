@@ -1,0 +1,1014 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9abf3df8-777d-4c7e-a916-8f1bf603a219" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/javaFoundation/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/../../java-1.8/src.zip!/java/io/FileReader.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="351">
+              <caret line="57" column="28" lean-forward="true" selection-start-line="57" selection-start-column="28" selection-end-line="57" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/javaFoundation/src/main/java/cn/edu/seu/testCollection/TestCollections.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-18">
+              <caret line="38" column="51" selection-start-line="38" selection-start-column="51" selection-end-line="38" selection-end-column="51" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/javaFoundation/src/main/java/cn/edu/seu/testCollection/TestIterator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-136">
+              <caret line="10" column="27" lean-forward="true" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/javaFoundation/src/main/java/cn/edu/seu/testOOPMethod/Person.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="44" column="47" lean-forward="true" selection-start-line="44" selection-start-column="47" selection-end-line="44" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>asL</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/javaFoundation/src/main/java/Main.java" />
+        <option value="$PROJECT_DIR$/javaFoundation/pom.xml" />
+        <option value="$PROJECT_DIR$/javaFoundation/src/main/java/cn/edu/seu/testJavaAPI/TestArrary.java" />
+        <option value="$PROJECT_DIR$/javaFoundation/src/main/java/cn/edu/seu/testJavaAPI/TestArray.java" />
+        <option value="$PROJECT_DIR$/javaFoundation/src/main/java/cn/edu/seu/testJavaAPI/Person.java" />
+        <option value="$PROJECT_DIR$/javaFoundation/src/main/java/cn/edu/seu/Person.java" />
+        <option value="$PROJECT_DIR$/javaFoundation/src/test/java/cn/edu/seu/TestParameterBinding.java" />
+        <option value="$PROJECT_DIR$/javaFoundation/src/main/java/cn/edu/seu/testOOPMethod/Person.java" />
+        <option value="$PROJECT_DIR$/javaFoundation/src/main/java/cn/edu/seu/testJavaAPI/TestString.java" />
+        <option value="$PROJECT_DIR$/javaFoundation/src/main/java/cn/edu/seu/testCoreClass/TestString.java" />
+        <option value="$PROJECT_DIR$/javaFoundation/src/main/java/cn/edu/seu/testCoreClass/TestStringBuilder.java" />
+        <option value="$PROJECT_DIR$/javaFoundation/src/main/java/cn/edu/seu/testCoreClass/TestStringJoin.java" />
+        <option value="$PROJECT_DIR$/javaFoundation/src/main/java/cn/edu/seu/testCoreClass/TestWrapperClass.java" />
+        <option value="$PROJECT_DIR$/javaFoundation/src/main/java/cn/edu/seu/testCoreClass/TestEnum.java" />
+        <option value="$PROJECT_DIR$/javaFoundation/src/main/java/cn/edu/seu/testCoreClass/testBigInteger.java" />
+        <option value="$PROJECT_DIR$/javaFoundation/src/main/java/cn/edu/seu/testCoreClass/testBigDecimal.java" />
+        <option value="$PROJECT_DIR$/javaFoundation/src/main/java/cn/edu/seu/testCoreClass/TestBigDecimal.java" />
+        <option value="$PROJECT_DIR$/javaFoundation/src/main/java/cn/edu/seu/testCoreClass/testMath.java" />
+        <option value="$PROJECT_DIR$/javaFoundation/src/main/java/cn/edu/seu/testCollection/testMap.java" />
+        <option value="$PROJECT_DIR$/javaFoundation/src/main/java/cn/edu/seu/testCollection/TestProperties.java" />
+        <option value="$PROJECT_DIR$/javaFoundation/src/main/java/cn/edu/seu/testCollection/TestMap.java" />
+        <option value="$PROJECT_DIR$/javaFoundation/src/main/java/cn/edu/seu/testCollection/TestList.java" />
+        <option value="$PROJECT_DIR$/javaFoundation/src/main/java/cn/edu/seu/testCollection/TestIterator.java" />
+        <option value="$PROJECT_DIR$/javaFoundation/src/main/java/cn/edu/seu/testCollection/TestCollections.java" />
+        <option value="$PROJECT_DIR$/javaFoundation/src/main/java/cn/edu/seu/testIOClass/TestPath.java" />
+        <option value="$PROJECT_DIR$/javaFoundation/src/main/java/cn/edu/seu/testIOClass/TestInputStream.java" />
+        <option value="$PROJECT_DIR$/javaFoundation/src/main/resources/log4j.properties" />
+        <option value="$PROJECT_DIR$/javaFoundation/src/main/java/cn/edu/seu/testIOClass/TestOutputStream.java" />
+        <option value="$PROJECT_DIR$/javaFoundation/src/main/java/cn/edu/seu/testIOClass/CopyFileDemo.java" />
+        <option value="$PROJECT_DIR$/javaFoundation/src/main/java/cn/edu/seu/testIOClass/TestFile.java" />
+        <option value="$PROJECT_DIR$/javaFoundation/src/main/java/cn/edu/seu/testJunit/TestMethod1.java" />
+        <option value="$PROJECT_DIR$/javaFoundation/src/main/java/cn/edu/seu/testJunit/TestMethod2.java" />
+        <option value="$PROJECT_DIR$/javaFoundation/src/main/java/cn/edu/seu/testJunit/TestMethod3.java" />
+        <option value="$PROJECT_DIR$/javaFoundation/src/main/java/cn/edu/seu/testJunit/TestJunitSuit.java" />
+        <option value="$PROJECT_DIR$/javaFoundation/src/main/java/cn/edu/seu/testJunit/TestParametersMethod.java" />
+        <option value="$PROJECT_DIR$/javaFoundation/src/main/java/cn/edu/seu/testIOClass/TestFilter.java" />
+        <option value="$PROJECT_DIR$/javaFoundation/src/main/java/cn/edu/seu/testIOClass/TestZipOperator.java" />
+        <option value="$PROJECT_DIR$/javaFoundation/src/main/java/cn/edu/seu/testIOClass/TestGetResources.java" />
+        <option value="$PROJECT_DIR$/javaFoundation/src/main/java/cn/edu/seu/testIOClass/TestReader.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="D:\Develop\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="javaFoundation" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="javaFoundation" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="15" />
+    <option name="y" value="30" />
+    <option name="width" value="1890" />
+    <option name="height" value="960" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="studyJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaFoundation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="studyJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaFoundation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="studyJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaFoundation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="studyJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaFoundation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="studyJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaFoundation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="seu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="studyJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaFoundation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="seu" type="462c0819:PsiDirectoryNode" />
+              <item name="testCollection" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="studyJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaFoundation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="seu" type="462c0819:PsiDirectoryNode" />
+              <item name="testOOPMethod" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="studyJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaFoundation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1569160079397" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="cn.edu.seu.testJavaAPI" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.TestGetResources.testGetPropertoes">
+    <configuration name="TestFilter.mainMethod" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javaFoundation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.edu.seu.testIOClass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.edu.seu.testIOClass" />
+      <option name="MAIN_CLASS_NAME" value="cn.edu.seu.testIOClass.TestFilter" />
+      <option name="METHOD_NAME" value="mainMethod" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestGetResources.testGetPropertoes" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javaFoundation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.edu.seu.testIOClass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.edu.seu.testIOClass" />
+      <option name="MAIN_CLASS_NAME" value="cn.edu.seu.testIOClass.TestGetResources" />
+      <option name="METHOD_NAME" value="testGetPropertoes" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestJunitSuit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javaFoundation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.edu.seu.testJunit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.edu.seu.testJunit" />
+      <option name="MAIN_CLASS_NAME" value="cn.edu.seu.testJunit.TestJunitSuit" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestParametersMethod" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javaFoundation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.edu.seu.testJunit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.edu.seu.testJunit" />
+      <option name="MAIN_CLASS_NAME" value="cn.edu.seu.testJunit.TestParametersMethod" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestReader.testFileReader" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javaFoundation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.edu.seu.testIOClass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.edu.seu.testIOClass" />
+      <option name="MAIN_CLASS_NAME" value="cn.edu.seu.testIOClass.TestReader" />
+      <option name="METHOD_NAME" value="testFileReader" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestGetResources.testGetPropertoes" />
+        <item itemvalue="JUnit.TestReader.testFileReader" />
+        <item itemvalue="JUnit.TestFilter.mainMethod" />
+        <item itemvalue="JUnit.TestParametersMethod" />
+        <item itemvalue="JUnit.TestJunitSuit" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9abf3df8-777d-4c7e-a916-8f1bf603a219" name="Default Changelist" comment="" />
+      <created>1568703873080</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568703873080</updated>
+      <workItem from="1568703880146" duration="5000000" />
+      <workItem from="1568716520482" duration="1325000" />
+      <workItem from="1568717896623" duration="11644000" />
+      <workItem from="1568770988435" duration="26489000" />
+      <workItem from="1568853481743" duration="26973000" />
+      <workItem from="1568940194707" duration="17079000" />
+      <workItem from="1568981290315" duration="3535000" />
+      <workItem from="1569076252377" duration="655000" />
+      <workItem from="1569117250468" duration="17174000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TestFilter_mainMethod - 2019.09.22 at 15h 50m 53s.xml">
+      <configuration name="TestFilter.mainMethod" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestGetResources_testGetPropertoes - 2019.09.22 at 20h 28m 10s.xml">
+      <configuration name="TestGetResources.testGetPropertoes" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestGetResources_testGetPropertoes - 2019.09.22 at 20h 33m 01s.xml">
+      <configuration name="TestGetResources.testGetPropertoes" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestGetResources_testGetPropertoes - 2019.09.22 at 20h 38m 54s.xml">
+      <configuration name="TestGetResources.testGetPropertoes" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestGetResources_testGetPropertoes - 2019.09.22 at 20h 40m 06s.xml">
+      <configuration name="TestGetResources.testGetPropertoes" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestReader_testFileReader - 2019.09.22 at 21h 30m 14s.xml">
+      <configuration name="TestReader.testFileReader" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestReader_testFileReader - 2019.09.22 at 21h 30m 28s.xml">
+      <configuration name="TestReader.testFileReader" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestReader_testFileReader - 2019.09.22 at 21h 31m 22s.xml">
+      <configuration name="TestReader.testFileReader" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestReader_testFileReader - 2019.09.22 at 21h 32m 12s.xml">
+      <configuration name="TestReader.testFileReader" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestGetResources_testGetPropertoes - 2019.09.22 at 21h 32m 46s.xml">
+      <configuration name="TestGetResources.testGetPropertoes" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="109874000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23809524" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329806" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32627866" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39858907" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.329806" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Maven" order="1" weight="0.1622276" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Database" order="5" weight="0.3292978" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/javaFoundation/src/main/java/cn/edu/seu/testCoreClass/TestStringJoin.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/javaFoundation/src/main/java/cn/edu/seu/testCoreClass/TestEnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="22" lean-forward="true" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#229#230#0" expanded="true" />
+            <element signature="e#274#275#0" expanded="true" />
+            <element signature="e#315#316#0" expanded="true" />
+            <element signature="e#364#365#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../java-1.8/src.zip!/java/lang/Number.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="54" column="22" selection-start-line="54" selection-start-column="22" selection-end-line="54" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../java-1.8/src.zip!/java/lang/NumberFormatException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="64" selection-start-line="64" selection-end-line="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaFoundation/src/main/java/cn/edu/seu/testCoreClass/testBigInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="71" column="46" selection-start-line="71" selection-start-column="46" selection-end-line="71" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../java-1.8/src.zip!/java/math/MathContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-261">
+          <caret line="55" column="19" selection-start-line="55" selection-start-column="19" selection-end-line="55" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../java-1.8/src.zip!/java/math/BigInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="3714" column="43" selection-start-line="3714" selection-start-column="43" selection-end-line="3714" selection-end-column="43" />
+          <folding>
+            <element signature="e#22589#22590#0" expanded="true" />
+            <element signature="e#22618#22619#0" expanded="true" />
+            <element signature="e#87394#87395#0" expanded="true" />
+            <element signature="e#87455#87456#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../java-1.8/src.zip!/java/math/BigDecimal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="496">
+          <caret line="1918" column="22" selection-start-line="1918" selection-start-column="22" selection-end-line="1918" selection-end-column="22" />
+          <folding>
+            <element signature="e#28781#28782#0" expanded="true" />
+            <element signature="e#28819#28820#0" expanded="true" />
+            <element signature="e#34844#34845#0" expanded="true" />
+            <element signature="e#34904#34905#0" expanded="true" />
+            <element signature="e#37053#37054#0" expanded="true" />
+            <element signature="e#37100#37101#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaFoundation/src/main/java/cn/edu/seu/testCoreClass/TestBigDecimal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="41" column="71" selection-start-line="41" selection-start-column="71" selection-end-line="41" selection-end-column="71" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../java-1.8/src.zip!/java/lang/Math.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="459" column="25" selection-start-line="459" selection-start-column="25" selection-end-line="459" selection-end-column="25" />
+          <folding>
+            <element signature="e#18056#18057#0" expanded="true" />
+            <element signature="e#18138#18139#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../java-1.8/src.zip!/java/util/Random.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="327" column="15" selection-start-line="327" selection-start-column="15" selection-end-line="327" selection-end-column="15" />
+          <folding>
+            <element signature="e#3504#3505#0" expanded="true" />
+            <element signature="e#3562#3563#0" expanded="true" />
+            <element signature="e#11985#11986#0" expanded="true" />
+            <element signature="e#12016#12017#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaFoundation/src/main/java/cn/edu/seu/testCoreClass/testMath.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="36" column="37" lean-forward="true" selection-start-line="36" selection-start-column="37" selection-end-line="36" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../java-1.8/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="163" column="11" selection-start-line="163" selection-start-column="11" selection-end-line="163" selection-end-column="11" />
+          <folding>
+            <element signature="e#6252#6253#0" expanded="true" />
+            <element signature="e#6320#6321#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../java-1.8/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9186">
+          <caret line="210" column="12" selection-start-line="210" selection-start-column="12" selection-end-line="210" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/requests/FilterRequest.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../java-1.8/src.zip!/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-44">
+          <caret line="324" column="11" selection-start-line="324" selection-start-column="11" selection-end-line="324" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../java-1.8/src.zip!/java/util/Properties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-322">
+          <caret line="138" column="11" selection-start-line="138" selection-start-column="11" selection-end-line="138" selection-end-column="11" />
+          <folding>
+            <element signature="e#4787#4788#0" expanded="true" />
+            <element signature="e#4813#4814#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/log4j/log4j/1.2.17/log4j-1.2.17-sources.jar!/org/apache/log4j/Logger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaFoundation/src/main/java/cn/edu/seu/testCollection/TestProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaFoundation/src/main/java/cn/edu/seu/testCollection/TestMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="28" column="23" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../java-1.8/src.zip!/java/util/Iterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10">
+          <caret line="53" column="17" selection-start-line="53" selection-start-column="17" selection-end-line="53" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../java-1.8/src.zip!/java/io/File.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2914">
+          <caret line="1205" column="18" selection-start-line="1205" selection-start-column="18" selection-end-line="1205" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaFoundation/src/main/java/cn/edu/seu/testIOClass/TestPath.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="18" column="35" lean-forward="true" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../java-1.8/src.zip!/java/nio/file/Paths.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="954">
+          <caret line="130" column="22" selection-start-line="130" selection-start-column="18" selection-end-line="130" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../java-1.8/src.zip!/java/io/InputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="99" column="15" selection-start-line="99" selection-start-column="15" selection-end-line="99" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaFoundation/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="97" selection-start-line="4" selection-start-column="97" selection-end-line="4" selection-end-column="97" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaFoundation/src/main/java/cn/edu/seu/testIOClass/TestOutputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaFoundation/src/main/java/cn/edu/seu/testIOClass/TestInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="68" column="98" selection-start-line="68" selection-start-column="57" selection-end-line="68" selection-end-column="98" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../java-1.8/src.zip!/java/nio/Buffer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="335" column="12" selection-start-line="335" selection-start-column="7" selection-end-line="335" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaFoundation/src/main/java/cn/edu/seu/testIOClass/CopyFileDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaFoundation/src/main/java/cn/edu/seu/testIOClass/TestFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="68" column="9" selection-start-line="68" selection-start-column="9" selection-end-line="68" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaFoundation/src/main/java/cn/edu/seu/testJunit/TestMethod2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+          <folding>
+            <element signature="e#125#126#0" expanded="true" />
+            <element signature="e#161#162#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaFoundation/src/main/java/cn/edu/seu/testJunit/TestMethod3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#120#121#0" expanded="true" />
+            <element signature="e#145#146#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaFoundation/src/main/java/cn/edu/seu/testJunit/TestMethod1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding>
+            <element signature="e#119#120#0" expanded="true" />
+            <element signature="e#140#141#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaFoundation/src/main/java/cn/edu/seu/testJunit/TestJunitSuit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaFoundation/src/main/java/cn/edu/seu/testJunit/TestParametersMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="28" column="21" selection-start-line="28" selection-start-column="2" selection-end-line="28" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#553#554#0" expanded="true" />
+            <element signature="e#634#635#0" expanded="true" />
+            <element signature="e#676#677#0" expanded="true" />
+            <element signature="e#698#699#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../java-1.8/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="3789" column="50" selection-start-line="3789" selection-start-column="47" selection-end-line="3789" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaFoundation/src/main/java/cn/edu/seu/testCollection/TestList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="70" lean-forward="true" selection-start-line="70" selection-end-line="70" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaFoundation/src/main/java/cn/edu/seu/testJavaAPI/TestArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../java-1.8/src.zip!/java/util/zip/ZipEntry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2546">
+          <caret line="75" column="31" selection-start-line="75" selection-start-column="27" selection-end-line="75" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../java-1.8/src.zip!/java/util/zip/ZipOutputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1124">
+          <caret line="44" column="6" selection-start-line="44" selection-start-column="6" selection-end-line="44" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaFoundation/src/main/java/cn/edu/seu/testIOClass/TestZipOperator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../java-1.8/src.zip!/java/lang/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-206">
+          <caret line="2194" column="34" lean-forward="true" selection-start-line="2194" selection-start-column="34" selection-end-line="2194" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaFoundation/src/main/java/cn/edu/seu/testJavaAPI/test.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../java-1.8/src.zip!/java/io/FileInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="122" column="11" selection-start-line="122" selection-start-column="11" selection-end-line="122" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaFoundation/src/main/java/cn/edu/seu/testIOClass/TestGetResources.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="15" column="56" lean-forward="true" selection-start-line="15" selection-start-column="56" selection-end-line="15" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaFoundation/src/main/java/cn/edu/seu/testIOClass/TestFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="46" column="11" selection-start-line="46" selection-start-column="11" selection-end-line="46" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#762#763#0" expanded="true" />
+            <element signature="e#795#796#0" expanded="true" />
+            <element signature="e#832#833#0" expanded="true" />
+            <element signature="e#873#874#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaFoundation/src/main/java/cn/edu/seu/testIOClass/TestReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="21" column="58" lean-forward="true" selection-start-line="21" selection-start-column="58" selection-end-line="21" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../java-1.8/src.zip!/java/io/FileReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="57" column="28" lean-forward="true" selection-start-line="57" selection-start-column="28" selection-end-line="57" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaFoundation/src/main/java/cn/edu/seu/testCollection/TestCollections.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-18">
+          <caret line="38" column="51" selection-start-line="38" selection-start-column="51" selection-end-line="38" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaFoundation/src/main/java/cn/edu/seu/testCollection/TestIterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-136">
+          <caret line="10" column="27" lean-forward="true" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaFoundation/src/main/java/cn/edu/seu/testOOPMethod/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="44" column="47" lean-forward="true" selection-start-line="44" selection-start-column="47" selection-end-line="44" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>javaFoundation</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: junit:junit:4.12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
